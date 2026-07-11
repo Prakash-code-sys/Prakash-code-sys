@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Prakash 👋
 
-<!--
-**Prakash-code-sys/Prakash-code-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Automation Engineer with experience in building scalable test automation frameworks using Playwright and JavaScript.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- Playwright
+- JavaScript
+- API Testing
+- Jenkins
+- Git & GitHub
+- SQL
+- CI/CD
+- Page Object Model (POM)
+- Cucumber (BDD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Currently Learning
+- Advanced Playwright
+- Docker
+- Kubernetes
+- GitHub Actions
+- AI-assisted Test Automation
+
+## 🔹 Goals
+- Build production-ready automation frameworks
+- Contribute to open-source automation projects
+- Continuously improve software quality through automation
