@@ -25,5 +25,5 @@ I'm a QA Automation Engineer with experience in building scalable test automatio
 - Contribute to open-source automation projects
 - Continuously improve software quality through automation
 
-## இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு
-## இடும்பை படாஅ தவர்.
+இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு
+இடும்பை படாஅ தவர்.
