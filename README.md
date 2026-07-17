@@ -1,4 +1,4 @@
-# Hi, I'm Prakash 👋
+# Hi, I'm Prakash Raj👋
 
 I'm a QA Automation Engineer with experience in building scalable test automation frameworks using Playwright and JavaScript.
 
